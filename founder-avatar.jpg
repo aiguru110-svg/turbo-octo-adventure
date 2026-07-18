@@ -1,27 +1,3 @@
-founder-photo-wrap{
-
-    margin-bottom:20px;
-
-    border-radius:20px;
-
-    overflow:hidden;
-
-    border:1px solid var(--line);
-
-    box-shadow:var(--shadow);
-
-}
-
-.founder-photo{
-
-    width:100%;
-
-    height:430px;
-
-    object-fit:cover;
-
-    object-position:center top;
-
-    display:block;
+founder-avatar.jpg
 
 
